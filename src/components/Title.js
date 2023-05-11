@@ -3,7 +3,7 @@ import React from 'react'
 const Title = () => {
   return (
     <div>
-      Stock Market Gyan
+      <h2>Stock Market Gyan</h2>
     </div>
   )
 }
