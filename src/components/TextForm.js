@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 
 const TextForm = (props) => {
-    const [text,setText]=useState('Enter text here');
+    const [text,setText]=useState('');
  
     const handleUpClick=()=>{
         let newText=text.toUpperCase();
